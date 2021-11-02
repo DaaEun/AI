@@ -1,0 +1,230 @@
+i: 0    weight:0.6527   theta: 0.7372
+i: 1    weight:0.9047   theta: 0.9809
+
+GATE 선택 : 1. AND    2. OR    3. XOR
+Select : 1
+------------------------------------------------
+AND gate
+------------------------------------------------
+i: 0    weight:0.6527   theta: 0.721532
+i: 1    weight:0.9047   theta: 0.965232
+i: 0    weight:0.6527   theta: 0.703574
+i: 1    weight:0.886742 theta: 0.947274
+i: 0    weight:0.635342 theta: 0.686217
+i: 1    weight:0.886742 theta: 0.929917
+Iter: 1 Loss: 1.20549   Accuracy: 0.25
+i: 0    weight:0.635342 theta: 0.670914
+i: 1    weight:0.886742 theta: 0.914614
+i: 0    weight:0.635342 theta: 0.653188
+i: 1    weight:0.869016 theta: 0.896888
+i: 0    weight:0.618272 theta: 0.636118
+i: 1    weight:0.869016 theta: 0.879818
+Iter: 2 Loss: 1.17724   Accuracy: 0.25
+i: 0    weight:0.618272 theta: 0.621196
+i: 1    weight:0.869016 theta: 0.864896
+i: 0    weight:0.618272 theta: 0.60372
+i: 1    weight:0.851541 theta: 0.84742
+i: 0    weight:0.60151  theta: 0.586958
+i: 1    weight:0.851541 theta: 0.830658
+Iter: 3 Loss: 1.14742   Accuracy: 0.25
+i: 0    weight:0.60151  theta: 0.572429
+i: 1    weight:0.851541 theta: 0.816129
+i: 0    weight:0.60151  theta: 0.555222
+i: 1    weight:0.834335 theta: 0.798922
+i: 0    weight:0.585074 theta: 0.538787
+i: 1    weight:0.834335 theta: 0.782487
+Iter: 4 Loss: 1.11615   Accuracy: 0.25
+i: 0    weight:0.585074 theta: 0.524661
+i: 1    weight:0.834335 theta: 0.768361
+i: 0    weight:0.585074 theta: 0.507742
+i: 1    weight:0.817415 theta: 0.751442
+i: 0    weight:0.568984 theta: 0.491652
+i: 1    weight:0.817415 theta: 0.735352
+Iter: 5 Loss: 1.08355   Accuracy: 0.25
+i: 0    weight:0.568984 theta: 0.477939
+i: 1    weight:0.817415 theta: 0.721639
+i: 0    weight:0.568984 theta: 0.461324
+i: 1    weight:0.8008   theta: 0.705024
+i: 0    weight:0.553257 theta: 0.445597
+i: 1    weight:0.8008   theta: 0.689297
+Iter: 6 Loss: 1.04979   Accuracy: 0.25
+i: 0    weight:0.553257 theta: 0.432303
+i: 1    weight:0.8008   theta: 0.676003
+i: 0    weight:0.553257 theta: 0.416009
+i: 1    weight:0.784506 theta: 0.659709
+i: 0    weight:0.537907 theta: 0.400659
+i: 1    weight:0.784506 theta: 0.644359
+Iter: 7 Loss: 1.01505   Accuracy: 0.25
+i: 0    weight:0.537907 theta: 0.387787
+i: 1    weight:0.784506 theta: 0.631487
+i: 0    weight:0.537907 theta: 0.371829
+i: 1    weight:0.768548 theta: 0.615529
+i: 0    weight:0.522948 theta: 0.356871
+i: 1    weight:0.768548 theta: 0.600571
+Iter: 8 Loss: 0.979546  Accuracy: 0.25
+i: 0    weight:0.522948 theta: 0.344423
+i: 1    weight:0.768548 theta: 0.588123
+i: 0    weight:0.522948 theta: 0.328814
+i: 1    weight:0.752939 theta: 0.572514
+i: 0    weight:0.508392 theta: 0.314258
+i: 1    weight:0.752939 theta: 0.557958
+Iter: 9 Loss: 0.943492  Accuracy: 0.25
+i: 0    weight:0.508392 theta: 0.302233
+i: 1    weight:0.752939 theta: 0.545933
+i: 0    weight:0.508392 theta: 0.286986
+i: 1    weight:0.737693 theta: 0.530686
+i: 0    weight:0.494246 theta: 0.27284
+i: 1    weight:0.737693 theta: 0.51654
+Iter: 10        Loss: 0.907113  Accuracy: 0.25
+i: 0    weight:0.494246 theta: 0.261234
+i: 1    weight:0.737693 theta: 0.504934
+i: 0    weight:0.494246 theta: 0.246358
+i: 1    weight:0.722817 theta: 0.490058
+i: 0    weight:0.480517 theta: 0.232629
+i: 1    weight:0.722817 theta: 0.476329
+Iter: 11        Loss: 0.870636  Accuracy: 0.25
+i: 0    weight:0.480517 theta: 0.221436
+i: 1    weight:0.722817 theta: 0.465136
+i: 0    weight:0.480517 theta: 0.206941
+i: 1    weight:0.708322 theta: 0.450641
+i: 0    weight:0.467208 theta: 0.193632
+i: 1    weight:0.708322 theta: 0.437332
+Iter: 12        Loss: 0.834282  Accuracy: 0.25
+i: 0    weight:0.467208 theta: 0.182845
+i: 1    weight:0.708322 theta: 0.426545
+i: 0    weight:0.467208 theta: 0.168734
+i: 1    weight:0.694212 theta: 0.412435
+i: 0    weight:0.454321 theta: 0.155847
+i: 1    weight:0.694212 theta: 0.399547
+Iter: 13        Loss: 0.79826   Accuracy: 0.25
+i: 0    weight:0.454321 theta: 0.145456
+i: 1    weight:0.694212 theta: 0.389156
+i: 0    weight:0.454321 theta: 0.131735
+i: 1    weight:0.680491 theta: 0.375435
+i: 0    weight:0.441853 theta: 0.119268
+i: 1    weight:0.680491 theta: 0.362968
+Iter: 14        Loss: 0.762764  Accuracy: 0.25
+i: 0    weight:0.441853 theta: 0.109262
+i: 1    weight:0.680491 theta: 0.352962
+i: 0    weight:0.441853 theta: 0.095932
+i: 1    weight:0.667161 theta: 0.339632
+i: 0    weight:0.429802 theta: 0.0838807
+i: 1    weight:0.667161 theta: 0.327581
+Iter: 15        Loss: 0.72797   Accuracy: 0.25
+i: 0    weight:0.429802 theta: 0.0742491
+i: 1    weight:0.667161 theta: 0.317949
+i: 0    weight:0.429802 theta: 0.0613093
+i: 1    weight:0.654221 theta: 0.305009
+i: 0    weight:0.418161 theta: 0.0496687
+i: 1    weight:0.654221 theta: 0.293369
+Iter: 16        Loss: 0.694027  Accuracy: 0.25
+i: 0    weight:0.418161 theta: 0.040398
+i: 1    weight:0.654221 theta: 0.284098
+i: 0    weight:0.418161 theta: 0.0278463
+i: 1    weight:0.641669 theta: 0.271546
+i: 0    weight:0.406924 theta: 0.0166088
+i: 1    weight:0.641669 theta: 0.260309
+Iter: 17        Loss: 0.661066  Accuracy: 0.25
+i: 0    weight:0.406924 theta: 0.00768572
+i: 1    weight:0.641669 theta: 0.251386
+i: 0    weight:0.406924 theta: -0.00448196
+i: 1    weight:0.629502 theta: 0.239218
+i: 0    weight:0.39608  theta: -0.0153252
+i: 1    weight:0.629502 theta: 0.228375
+Iter: 18        Loss: 0.629191  Accuracy: 0.25
+i: 0    weight:0.39608  theta: -0.0239146
+i: 1    weight:0.629502 theta: 0.219785
+i: 0    weight:0.39608  theta: -0.0357038
+i: 1    weight:0.617712 theta: 0.207996
+i: 0    weight:0.385621 theta: -0.0461631
+i: 1    weight:0.617712 theta: 0.197537
+Iter: 19        Loss: 0.598482  Accuracy: 0.25
+i: 0    weight:0.385621 theta: -0.0544328
+i: 1    weight:0.617712 theta: 0.189267
+i: 0    weight:0.385621 theta: -0.0658505
+i: 1    weight:0.606295 theta: 0.17785
+i: 0    weight:0.375535 theta: -0.0759371
+i: 1    weight:0.606295 theta: 0.167763
+Iter: 20        Loss: 0.568998  Accuracy: 0.25
+i: 0    weight:0.375535 theta: -0.0839011
+i: 1    weight:0.606295 theta: 0.159799
+i: 0    weight:0.375535 theta: -0.0949554
+i: 1    weight:0.59524  theta: 0.148745
+i: 0    weight:0.365809 theta: -0.104681
+i: 1    weight:0.59524  theta: 0.139019
+Iter: 21        Loss: 0.540776  Accuracy: 0.25
+i: 0    weight:0.365809 theta: -0.112354
+i: 1    weight:0.59524  theta: 0.131346
+i: 0    weight:0.365809 theta: -0.123054
+i: 1    weight:0.584541 theta: 0.120646
+i: 0    weight:0.356431 theta: -0.132432
+i: 1    weight:0.584541 theta: 0.111268
+Iter: 22        Loss: 0.513837  Accuracy: 0.25
+i: 0    weight:0.356431 theta: -0.142865
+i: 1    weight:0.574108 theta: 0.100835
+i: 0    weight:0.347311 theta: -0.151985
+i: 1    weight:0.574108 theta: 0.0917154
+Iter: 23        Loss: 0.370052  Accuracy: 0.5
+i: 0    weight:0.347311 theta: -0.162157
+i: 1    weight:0.563935 theta: 0.0815433
+i: 0    weight:0.338441 theta: -0.171026
+i: 1    weight:0.563935 theta: 0.0726737
+Iter: 24        Loss: 0.356091  Accuracy: 0.5
+i: 0    weight:0.338441 theta: -0.180944
+i: 1    weight:0.554018 theta: 0.0627562
+i: 0    weight:0.329814 theta: -0.189571
+i: 1    weight:0.554018 theta: 0.0541293
+Iter: 25        Loss: 0.34263   Accuracy: 0.5
+i: 0    weight:0.329814 theta: -0.19924
+i: 1    weight:0.544349 theta: 0.0444601
+i: 0    weight:0.321422 theta: -0.207632
+i: 1    weight:0.544349 theta: 0.0360681
+Iter: 26        Loss: 0.329667  Accuracy: 0.5
+i: 0    weight:0.321422 theta: -0.217059
+i: 1    weight:0.534921 theta: 0.0266406
+i: 0    weight:0.313257 theta: -0.225224
+i: 1    weight:0.534921 theta: 0.0184758
+Iter: 27        Loss: 0.317197  Accuracy: 0.5
+i: 0    weight:0.313257 theta: -0.234417
+i: 1    weight:0.525729 theta: 0.00928338
+i: 0    weight:0.305312 theta: -0.242362
+i: 1    weight:0.525729 theta: 0.00133819
+Iter: 28        Loss: 0.305214  Accuracy: 0.5
+i: 0    weight:0.305312 theta: -0.251326
+i: 1    weight:0.516765 theta: -0.00762578
+i: 0    weight:0.297579 theta: -0.259059
+i: 1    weight:0.516765 theta: -0.0153589
+Iter: 29        Loss: 0.29371   Accuracy: 0.5
+i: 0    weight:0.297579 theta: -0.267801
+i: 1    weight:0.508023 theta: -0.0241011
+i: 0    weight:0.290051 theta: -0.275329
+i: 1    weight:0.508023 theta: -0.0316295
+Iter: 30        Loss: 0.282674  Accuracy: 0.5
+i: 0    weight:0.290051 theta: -0.283857
+i: 1    weight:0.499496 theta: -0.0401565
+Iter: 31        Loss: 0.151303  Accuracy: 0.75
+i: 0    weight:0.290051 theta: -0.292251
+i: 1    weight:0.491101 theta: -0.0485508
+Iter: 32        Loss: 0.147837  Accuracy: 0.75
+i: 0    weight:0.290051 theta: -0.300515
+i: 1    weight:0.482837 theta: -0.056815
+Iter: 33        Loss: 0.144455  Accuracy: 0.75
+i: 0    weight:0.290051 theta: -0.308652
+i: 1    weight:0.474701 theta: -0.0649515
+Iter: 34        Loss: 0.141159  Accuracy: 0.75
+i: 0    weight:0.290051 theta: -0.316663
+i: 1    weight:0.466689 theta: -0.072963
+Iter: 35        Loss: 0.137945  Accuracy: 0.75
+i: 0    weight:0.290051 theta: -0.324552
+i: 1    weight:0.4588   theta: -0.0808518
+Iter: 36        Loss: 0.134814  Accuracy: 0.75
+i: 0    weight:0.290051 theta: -0.33232
+i: 1    weight:0.451032 theta: -0.0886205
+Iter: 37        Loss: 0.131762  Accuracy: 0.75
+i: 0    weight:0.290051 theta: -0.339971
+i: 1    weight:0.443381 theta: -0.0962715
+Iter: 38        Loss: 0.128789  Accuracy: 0.75
+i: 0    weight:0.290051 theta: -0.347507
+i: 1    weight:0.435845 theta: -0.103807
+Iter: 39        Loss: 0.125894  Accuracy: 0.75
+Iter: 40        Loss: 0 Accuracy: 1

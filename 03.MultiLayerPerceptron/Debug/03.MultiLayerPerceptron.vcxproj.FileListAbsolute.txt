@@ -1,0 +1,1 @@
+C:\AI\03.MultiLayerPerceptron\Debug\03.MultiLayerPerceptron.exe

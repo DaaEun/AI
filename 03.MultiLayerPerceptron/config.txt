@@ -1,0 +1,6 @@
+##### 학습환경 #####
+
+Layer: 1
+
+
+AND gate Training 
