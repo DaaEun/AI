@@ -1,0 +1,16 @@
+### 장치 사양 ###
+LG PC
+장치 이름		daeun
+프로세서		Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz   1.80 GHz
+설치된 RAM	8.00GB(7.80GB 사용 가능)
+장치 ID		E4E3BFA3-C4E2-4736-881B-B99AB5E78AF0
+제품 ID		00325-81558-09193-AAOEM
+시스템 종류	64비트 운영 체제, x64 기반 프로세서
+펜 및 터치	10개의 터치 포인트를 사용할 수 있는 터치 지원
+
+### Windows 사양 ###
+에디션	Windows 10 Home
+버전	21H1
+설치 날짜	‎2020-‎09-‎14
+OS 빌드	19043.1237
+경험	Windows Feature Experience Pack 120.2212.3530.0
