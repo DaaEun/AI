@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\AI\02.PerceptronLearning\main.cpp(109,62): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  module.cpp
+  코드를 생성하고 있습니다...
+  02.PerceptronLearning.vcxproj -> C:\AI\02.PerceptronLearning\Debug\02.PerceptronLearning.exe

@@ -1,0 +1,96 @@
+input: 0	weight: 0.7807	bias: 0.54089
+input: 0	weight: 0.1886	bias: 0.70719
+
+input: 0	weight: 0.7807	bias: 0.397222
+input: 1	weight: 0.044932	bias: 0.563522
+
+input: 1	weight: 0.606556	bias: 0.223078
+input: 0	weight: 0.044932	bias: 0.389378
+
+input: 1	weight: 0.580161	bias: 0.196683
+input: 1	weight: 0.0185377	bias: 0.362983
+
+input: 0	weight: 0.580161	bias: 0.140717
+input: 0	weight: 0.0185377	bias: 0.307017
+
+input: 0	weight: 0.580161	bias: 0.0940896
+input: 1	weight: -0.0280894	bias: 0.26039
+
+input: 1	weight: 0.486697	bias: 0.000625513
+input: 0	weight: -0.0280894	bias: 0.166925
+
+input: 1	weight: 0.524081	bias: 0.0380096
+input: 1	weight: 0.00929475	bias: 0.20431
+
+input: 0	weight: 0.524081	bias: 0.0137777
+input: 0	weight: 0.00929475	bias: 0.180078
+
+input: 0	weight: 0.524081	bias: -0.00653731
+input: 1	weight: -0.0110203	bias: 0.159763
+
+input: 1	weight: 0.456351	bias: -0.074268
+input: 0	weight: -0.0110203	bias: 0.092032
+
+input: 1	weight: 0.510041	bias: -0.0205774
+input: 1	weight: 0.0426703	bias: 0.145723
+
+input: 0	weight: 0.510041	bias: -0.0330919
+input: 0	weight: 0.0426703	bias: 0.133208
+
+input: 0	weight: 0.510041	bias: -0.0473706
+input: 1	weight: 0.0283917	bias: 0.118929
+
+input: 1	weight: 0.451881	bias: -0.105531
+input: 0	weight: 0.0283917	bias: 0.0607694
+
+input: 1	weight: 0.50833	bias: -0.0490818
+input: 1	weight: 0.0848405	bias: 0.117218
+
+input: 0	weight: 0.50833	bias: -0.0558954
+input: 0	weight: 0.0848405	bias: 0.110405
+
+input: 0	weight: 0.50833	bias: -0.0698304
+input: 1	weight: 0.0709055	bias: 0.0964696
+
+input: 1	weight: 0.454833	bias: -0.123327
+input: 0	weight: 0.0709055	bias: 0.0429726
+
+input: 1	weight: 0.510295	bias: -0.0678657
+input: 1	weight: 0.126367	bias: 0.0984342
+
+input: 0	weight: 0.510295	bias: -0.0709226
+input: 0	weight: 0.126367	bias: 0.0953774
+
+input: 0	weight: 0.510295	bias: -0.0860047
+input: 1	weight: 0.111285	bias: 0.0802952
+
+input: 1	weight: 0.459836	bias: -0.136463
+input: 0	weight: 0.111285	bias: 0.0298367
+
+input: 1	weight: 0.513387	bias: -0.0829127
+input: 1	weight: 0.164835	bias: 0.0833872
+
+input: 0	weight: 0.513387	bias: -0.0829602
+input: 0	weight: 0.164835	bias: 0.0833398
+
+input: 0	weight: 0.513387	bias: -0.0994817
+input: 1	weight: 0.148314	bias: 0.0668183
+
+input: 1	weight: 0.465315	bias: -0.147554
+input: 0	weight: 0.148314	bias: 0.0187459
+
+input: 1	weight: 0.516832	bias: -0.0960361
+input: 1	weight: 0.199832	bias: 0.0702639
+
+input: 0	weight: 0.516832	bias: -0.0934588
+input: 0	weight: 0.199832	bias: 0.0728411
+
+input: 0	weight: 0.516832	bias: -0.11138
+input: 1	weight: 0.18191	bias: 0.0549197
+
+input: 1	weight: 0.470795	bias: -0.157417
+input: 0	weight: 0.18191	bias: 0.00888249
+
+input: 1	weight: 0.520378	bias: -0.107835
+input: 1	weight: 0.231493	bias: 0.0584654
+
