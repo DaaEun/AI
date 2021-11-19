@@ -1,1 +1,14 @@
 /dlwpt-code-master
+
+/awesome-public-datasets-master
+
+.vscode
+.exe
+
+*.vs
+Debug
+
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user

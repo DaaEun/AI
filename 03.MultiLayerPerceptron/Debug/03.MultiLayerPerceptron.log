@@ -1,5 +1,0 @@
-﻿  main.cpp
-  train.cpp
-C:\AI\03.MultiLayerPerceptron\train.cpp(78,60): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
-  코드를 생성하고 있습니다...
-  03.MultiLayerPerceptron.vcxproj -> C:\AI\03.MultiLayerPerceptron\Debug\03.MultiLayerPerceptron.exe
