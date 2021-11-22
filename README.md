@@ -83,6 +83,7 @@ Anaconda 파일안에 Uninstall-Anaconda.exe 실행.
     - C:\Anaconda3\Scripts
 
 11. Anaconda Navigator (Anaconda3) 실행
+[Anaconda로 PyTorch 설치하고 GPU 사용하기](https://pakalguksu.github.io/development/Anaconda%EB%A1%9C-PyTorch-%EC%84%A4%EC%B9%98%ED%95%98%EA%B3%A0-GPU-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/)
 
 12. 어플리케이션 vscode "lanuch" 
 
