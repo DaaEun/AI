@@ -12,3 +12,5 @@ Debug
 *.vcxproj
 *.vcxproj.filters
 *.vcxproj.user
+
+/결과보고서
